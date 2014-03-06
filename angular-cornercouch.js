@@ -1,6 +1,9 @@
 // Copyright: 2013, Jochen Eddelbüttel
 // MIT License applies
 //
+
+var angular = require("angular");
+
 angular.module('CornerCouch', ['ng']).
 factory('cornercouch', ['$http', function($http) {
 

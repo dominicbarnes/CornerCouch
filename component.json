@@ -1,0 +1,10 @@
+{
+  "name": "CornerCouch",
+  "dependencies": {
+    "componentizr/angular.js": "*"
+  },
+  "main": "angular-cornercouch.js",
+  "scripts": [
+    "angular-cornercouch.js"
+  ]
+}
